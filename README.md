@@ -5,10 +5,9 @@
 ---
 
 # Hello, EveryOne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-안녕하세요. My Name is SeungBin Nam and I'm Unity Developer & Technical Artist. I'm from Republic of Korea, living in Seoul.<br>
-I like to learn and I like to try new things<br>
-But at the same time, I want to create a program that is more complete than creating something extraordinary<br>
-you can find me on github blog or on linkedin<br>
+Unity Developer & Artist<br> 
+Based in Seoul, South Korea<br>
+Feel free to contact me anytime :)<br>
 
 <p align="center">
   <a href="https://blog.naver.com/punky_rocker/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/105025984/191937107-2468ca7d-19ca-4b20-8990-b29eb3aaec43.png"/></a>
