@@ -6,7 +6,7 @@
 
 # Hello, EveryOne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Jeeyun Shin<br> 
-Unity Developer Based in Seoul, South Korea<br>
+Unity Developer from Seoul, South Korea<br>
 Feel free to contact me anytime :)<br>
 
 <p align="center">
