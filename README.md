@@ -38,7 +38,7 @@ Feel free to contact me anytime :)<br>
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/105025984/192938387-e4ea27d9-60aa-4eb2-95ff-0010dd26a416.png" width="48" height="48" alt="C#" />
       </a>
-      <br>UNITY
+      <br>Unity
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
