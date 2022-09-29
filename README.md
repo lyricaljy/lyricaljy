@@ -32,71 +32,9 @@ Feel free to contact me anytime :)<br>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/87287709/191778468-58f092e8-2de5-40cf-ae6e-0b58dcd02afe.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Unity)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/87287709/191779855-988a2391-ed29-4f1f-89a9-ab710fa059ea.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/87287709/191779459-c00dbfd1-e98a-4257-88ee-47d2d052eb6f.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/87287709/191904318-50d57939-bf1e-45a0-b4b9-c6dc8fc03040.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/87287709/191899620-f2f8b65f-08c8-4ca3-a285-3f807c3e0921.svg" width="48" height="48" alt="Kotlin" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
+      <br>C#&nbsp;(C#)
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
@@ -109,25 +47,6 @@ Feel free to contact me anytime :)<br>
         <img src="https://user-images.githubusercontent.com/87287709/191784318-c271a788-3a10-4b05-8494-3e4c52e80978.png" width="48" height="48" alt="ARCore" />
       </a>
       <br>ARCore
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/87287709/191901434-a4941b82-3edf-4a56-af3a-5d9e2baf42a9.png" width="48" height="48" alt="Voxel" />
-      </a>
-      <br>VoxEdit
-      <br>MagicaVoxel
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="" width="48" height="48" alt="TBA" />
-      </a>
-      <br>TBA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/87287709/191899997-e7509447-caa2-4901-8170-c895788f9045.svg" width="48" height="48" alt="Vue.js" />
-      </a>
-      <br>Vue.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
