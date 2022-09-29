@@ -13,13 +13,11 @@ Feel free to contact me anytime :)<br>
 <p align="center">
   <a href="https://blog.naver.com/punky_rocker/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/105025984/191937107-2468ca7d-19ca-4b20-8990-b29eb3aaec43.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:bigwatermoon@naver.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
+  <a href="mailto:jeeyunshin@gmail.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/seungbin-nam-149601251/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/87287709/191726773-823da87d-3f23-445b-83d7-ded1202043a1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.notion.so/BUMBALL_MAKER-b81e0c5ec9de49219f71df747440bbb2"><img width="32px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/191731335-a0759d06-6d22-4714-a7bc-55c7db8fc5e0.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/BumBallMaker"><img width="32px" alt="Coffee" title="Buy me a coffee" src="https://user-images.githubusercontent.com/87287709/191911454-3681e3a2-2d45-41f7-8df1-1e3683e0d81f.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 </p>
@@ -56,7 +54,7 @@ Feel free to contact me anytime :)<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/87287709/191780377-30a05728-733c-4b48-ada1-777d7b322c87.svg" width="48" height="48" alt="GitHub" />
+        <img src="https://user-images.githubusercontent.com/105025984/192940588-c1f525c2-a8ac-4d1b-b05b-3752f8455a1e.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
