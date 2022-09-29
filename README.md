@@ -36,6 +36,12 @@ Feel free to contact me anytime :)<br>
       </a>
       <br>C#&nbsp;(C#)
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/105025984/192938387-e4ea27d9-60aa-4eb2-95ff-0010dd26a416.png" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#&nbsp;(Unity)
+    </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/87287709/191783843-e6488ef6-87de-4076-9e04-681bdca04469.svg" width="48" height="48" alt="OCULUS" />
