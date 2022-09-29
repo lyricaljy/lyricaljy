@@ -4,7 +4,7 @@
   
 ---
 
-# Hello, EveryOne! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Jeeyun Shin<br>
 Unity Developer<br>
 Based in Seoul, South Korea<br>
