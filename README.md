@@ -34,7 +34,7 @@ Feel free to contact me anytime :)<br>
       <a href="# Technology Stacks">
         <img src="https://user-images.githubusercontent.com/87287709/191904241-efa0a022-329e-42e8-b7ce-6a2f22975f2b.svg" width="48" height="48" alt="HTML5" />
       </a>
-      <br>HTML5
+      <br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
