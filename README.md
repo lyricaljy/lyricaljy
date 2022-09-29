@@ -34,7 +34,7 @@ Feel free to contact me anytime :)<br>
       <a href="#macropower-tech">
         <img src="https://user-images.githubusercontent.com/87287709/191778468-58f092e8-2de5-40cf-ae6e-0b58dcd02afe.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(C#)
+      <br>C#&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
