@@ -54,7 +54,7 @@ Feel free to contact me anytime :)<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/105025984/192940588-c1f525c2-a8ac-4d1b-b05b-3752f8455a1e.png" width="48" height="48" alt="GitHub" />
+        <img src="https://user-images.githubusercontent.com/105025984/192941129-cbed2abd-c1ae-460a-88b9-3b856074df2f.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
