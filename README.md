@@ -1,15 +1,16 @@
 <div style="heght:100%; weight:100%; background-color: white">
 
-<div> <img src = https://capsule-render.vercel.app/api?type=slice&color=auto&height=160&section=header&text=Hi!%20I'm%20Jeeyun!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000> </div>
+<div align="center"> <img src = https://capsule-render.vercel.app/api?type=slice&color=auto&height=160&section=header&text=Hi!%20I'm%20Jeeyun!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000> </div>
 
 ---
+<div align="center">
 
 # Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Jeeyun Shin<br>
 Unity Developer<br>
 Based in Seoul, South Korea<br>
 Feel free to contact me anytime :)<br>
-
+</div>
 <p align="center">
   <a href="https://blog.naver.com/punky_rocker/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/105025984/191937107-2468ca7d-19ca-4b20-8990-b29eb3aaec43.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -23,9 +24,11 @@ Feel free to contact me anytime :)<br>
 </p>
 
 ---
+<div align="center">
 
 # Technology Stacks
 
+</div>
 <table align=center>
   <tr>
     <td align="center" width="96">
@@ -36,7 +39,7 @@ Feel free to contact me anytime :)<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/105025984/192938387-e4ea27d9-60aa-4eb2-95ff-0010dd26a416.png" width="48" height="48" alt="C#" />
+        <img src="https://user-images.githubusercontent.com/105025984/193231494-f823b977-e80d-42e4-897f-ac0e90d72b5c.png" width="48" height="48" alt="C#" />
       </a>
       <br>Unity
     </td>
@@ -54,7 +57,7 @@ Feel free to contact me anytime :)<br>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://user-images.githubusercontent.com/105025984/192941129-cbed2abd-c1ae-460a-88b9-3b856074df2f.png" width="48" height="48" alt="GitHub" />
+        <img src="https://user-images.githubusercontent.com/105025984/193231668-d03bc031-d605-4d9d-9c8e-c628c7f4985e.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
@@ -62,25 +65,27 @@ Feel free to contact me anytime :)<br>
 </table>
 
 ---
+<div align="center">
 
 # Github Stacks
   
+</div>  
 <div align=center>  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBumBall-Maker&count_bg=%23CE1FC7&title_bg=%2312BCC2&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyricaljy&count_bg=%23A3DCBE&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
 
 </div>
 
 <p align = center>
  <a href="https://bumball-maker.github.io/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BumBall-Maker&show_icons=true&include_all_commits=true&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BumBall-Maker&layout=compact&bg_color=30,E41076,3A034B&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyricaljy&show_icons=true&include_all_commits=true&bg_color=30,A3DCBE,A3DCBE&title_color=fff&text_color=fff">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricaljy&layout=compact&bg_color=30,A3DCBE,A3DCBE&title_color=fff&text_color=fff">
 </a></p>
 
 <p align = "center">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BumBall-Maker&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lyricaljy&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"/>
  <br></br>
- <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=BumBall-Maker&theme=redical">
+ <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=lyricaljy&theme=redical">
 </p> 
 
 ---
