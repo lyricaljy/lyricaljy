@@ -17,7 +17,7 @@ Feel free to contact me anytime :)<br>
   <a href="mailto:jeeyunshin@gmail.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://jeeyunshin.wixsite.com/portfolio/"><img width="32px" alt="Wixsite" title="Wixsite" src="https://user-images.githubusercontent.com/105025984/192945010-760277ed-388d-4f5c-9997-5442b5b830ce.png"/></a>
- 
+   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.notion.so/BUMBALL_MAKER-b81e0c5ec9de49219f71df747440bbb2"><img width="32px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/191731335-a0759d06-6d22-4714-a7bc-55c7db8fc5e0.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
@@ -78,8 +78,8 @@ Feel free to contact me anytime :)<br>
 
 <p align = center>
  <a href="https://bumball-maker.github.io/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyricaljy&show_icons=true&include_all_commits=true&bg_color=30,A3DCBE,A3DCBE&title_color=fff&text_color=fff">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricaljy&layout=compact&bg_color=30,A3DCBE,A3DCBE&title_color=fff&text_color=fff">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lyricaljy&show_icons=true&include_all_commits=true&bg_color=30,A3DCBE,A3DCBE&title_color=fff&text_color=fff">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricaljy&layout=compact&bg_color=30,A3DCBE,A3DCBE&title_color=fff&text_color=fff">
 </a></p>
 
 <p align = "center">
