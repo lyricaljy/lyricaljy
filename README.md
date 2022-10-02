@@ -67,7 +67,7 @@ Feel free to contact me anytime :)<br>
 ---
 <div align="center">
 
-# Github Stacks
+# GitHub Stacks
   
 </div>  
 <div align=center>  
