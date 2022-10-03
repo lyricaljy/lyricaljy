@@ -72,7 +72,7 @@ Feel free to contact me anytime :)<br>
 </div>  
 <div align=center>  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyricaljy&count_bg=%2300A2E8&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyricaljy&count_bg=%23FE428E&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
 
 </div>
 
