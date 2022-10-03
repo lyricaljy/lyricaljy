@@ -78,7 +78,7 @@ Feel free to contact me anytime :)<br>
 
 <p align = center>
  <a href="https://bumball-maker.github.io/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lyricaljy&show_icons=true&include_all_commits=true&bg_color=30,A3DCBE,A3DCBE&title_color=fff&text_color=fff">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lyricaljy&show_icons=true&include_all_commits=true&bg_color=30,00A2E8,A3DCBE&title_color=fff&text_color=fff">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricaljy&layout=compact&bg_color=30,A3DCBE,A3DCBE&title_color=fff&text_color=fff">
 </a></p>
 
