@@ -12,7 +12,7 @@ Based in Seoul, South Korea<br>
 Feel free to contact me anytime :)<br>
 </div>
 <p align="center">
-  <a href="https://jeeyunshin.tistory.com/"><img width="32px" alt="Tistory Blog" title="Tistory Blog" src="https://user-images.githubusercontent.com/105025984/193612199-f6ab194c-ab3f-4c10-a785-6b200b06e228.svg"/></a>
+  <a href="https://jeeyunshin.tistory.com/"><img width="32px" alt="Tistory Blog" title="Tistory Blog" src="https://user-images.githubusercontent.com/105025984/193615084-2389d9a2-cdcb-4b6b-b947-0687ac90fdfb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:jeeyunshin@gmail.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
