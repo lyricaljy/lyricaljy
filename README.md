@@ -12,7 +12,7 @@ Based in Seoul, South Korea<br>
 Feel free to contact me anytime :)<br>
 </div>
 <p align="center">
-  <a href="https://blog.naver.com/punky_rocker/"><img width="32px" alt="GitHub Blog" title="GitHub Blog" src="https://user-images.githubusercontent.com/105025984/191937107-2468ca7d-19ca-4b20-8990-b29eb3aaec43.png"/></a>
+  <a href="https://jeeyunshin.tistory.com/"><img width="32px" alt="Tistory Blog" title="Tistory Blog" src="https://user-images.githubusercontent.com/105025984/191937107-2468ca7d-19ca-4b20-8990-b29eb3aaec43.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:jeeyunshin@gmail.com"><img width="32px" alt="Email" title="Send Email" src="https://user-images.githubusercontent.com/87287709/191726139-49455a2a-25e8-4809-9845-13cba8926343.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
