@@ -72,14 +72,14 @@ Feel free to contact me anytime :)<br>
 </div>  
 <div align=center>  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyricaljy&count_bg=%23A3DCBE&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flyricaljy&count_bg=%2300A2E8&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Visit+Count&edge_flat=true)](https://hits.seeyoufarm.com)<br/>
 
 </div>
 
 <p align = center>
  <a href="https://bumball-maker.github.io/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lyricaljy&show_icons=true&include_all_commits=true&bg_color=30,00A2E8,A3DCBE&title_color=fff&text_color=fff">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricaljy&layout=compact&bg_color=30,A3DCBE,A3DCBE&title_color=fff&text_color=fff">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricaljy&layout=compact&bg_color=30,00A2E8,A3DCBE&title_color=fff&text_color=fff">
 </a></p>
 
 <p align = "center">
