@@ -8,8 +8,9 @@
 # Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
 Jeeyun Shin<br>
-Unity Developer from Seoul<br>
+Unity Developer from Seoul, Korea<br>
 who likes to create a variety of contents with Unity<br>
+<br>
 <br>
 </div>
 <p align="center">
