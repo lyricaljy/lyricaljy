@@ -9,7 +9,7 @@
 Jeeyun Shin<br>
 Unity Developer from Seoul<br>
 likes to create a variety of contents with Unity<br>
-If you want to know more about me, please check below or contact me anytime :)<br>
+<br>
 </div>
 <p align="center">
   <a href="https://jeeyunshin.tistory.com/"><img width="32px" alt="Tistory Blog" title="Tistory Blog" src="https://user-images.githubusercontent.com/105025984/193615084-2389d9a2-cdcb-4b6b-b947-0687ac90fdfb.png"/></a>
