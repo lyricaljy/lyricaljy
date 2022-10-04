@@ -7,8 +7,8 @@
 
 # Hello, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Jeeyun Shin<br>
-Unity Developer<br>
-Based in Seoul, South Korea<br>
+Unity Developer from Seoul<br>
+likes to create a variety of contents with Unity<br>
 Feel free to contact me anytime :)<br>
 </div>
 <p align="center">
