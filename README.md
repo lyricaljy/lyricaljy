@@ -9,7 +9,7 @@
 <br>
 Jeeyun Shin<br>
 Unity Developer from Seoul, Korea<br>
-who likes to create a variety of contents with Unity :)<br>
+who is interested in creating a variety of contents with Unity :)<br>
 <br>
 <br>
 </div>
