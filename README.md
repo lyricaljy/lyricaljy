@@ -20,9 +20,7 @@ who is interested in creating a variety of contents with Unity :)<br>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://jeeyunshin.wixsite.com/portfolio/"><img width="32px" alt="Wixsite" title="Wixsite" src="https://user-images.githubusercontent.com/105025984/192945010-760277ed-388d-4f5c-9997-5442b5b830ce.png"/></a>
    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.notion.so/BUMBALL_MAKER-b81e0c5ec9de49219f71df747440bbb2"><img width="32px" alt="Notion" title="Notion" src="https://user-images.githubusercontent.com/87287709/191731335-a0759d06-6d22-4714-a7bc-55c7db8fc5e0.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
+  
 </p>
 
 ---
